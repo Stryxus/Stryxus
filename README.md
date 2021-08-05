@@ -9,9 +9,6 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/stryxus?tab=repositories)
 
-- 🤒 I'm a disabled programmer who is unable to attend university nor get a job so, i observe the world around me and 'stay on level' with everyone. Even teaching some into successful jobs!
-
-	
 ### 🛠 &nbsp;Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
