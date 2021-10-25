@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=stryxus&color=000000&style=flat-square">
 </p>
 
-- 🌱 I’m currently learning **C, C++, Vulkan, etc.**
+- 🌱 I’m currently learning **C, C++, CMake, Vulkan and Modern Unity (Lastly used properly in 2016)**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/stryxus?tab=repositories)
 
