@@ -1,8 +1,7 @@
-<h1 align="center">Well hello there! <img width="54" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" /></h1>
-	
-<p align="center">
+<h1 align="center">
+  <img width="70" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
   <img src="https://komarev.com/ghpvc/?username=stryxus&color=000000&style=flat-square">
-</p>
+</h1>
 
 #### 🛠 &nbsp;Languages
 
