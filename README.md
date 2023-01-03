@@ -21,6 +21,7 @@
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![macOS](http://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=ffffff)
