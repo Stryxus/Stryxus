@@ -51,9 +51,3 @@
 <p align="center">
 <img width="1000em" src="https://github-profile-trophy.vercel.app/?username=stryxus&margin-w=5&theme=radical"/>
 </p>
-
-#### 👾 &nbsp;Contributions
-
-<p align="center">
-<img width="1000em" src="https://activity-graph.herokuapp.com/graph?username=stryxus&bg_color=0D1117&color=e41e26&line=e41e26&point=FFFFFF&hide_border=true"/>
-</p>
