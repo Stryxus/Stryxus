@@ -45,9 +45,3 @@
 <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
 <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
 </p>
-
-#### 🏆 &nbsp;Achievement Get
-
-<p align="center">
-<img width="1000em" src="https://github-profile-trophy.vercel.app/?username=stryxus&margin-w=5&theme=radical"/>
-</p>
