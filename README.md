@@ -25,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS](http://img.shields.io/badge/-Visual%20Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Windows Terminal](http://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=ffffff)
 ![Azure](http://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff)
