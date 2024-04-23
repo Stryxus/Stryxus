@@ -14,6 +14,6 @@
 #### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
-<img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
+<img width="430em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
+<img width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=stryxus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&count_private=true"/>
 </p>
