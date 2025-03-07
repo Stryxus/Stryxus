@@ -3,10 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=stryxus&color=000000&style=flat-square">
 </h1>
 
-#### About me
-I'm a disabled Full-Stack Software Engineer who is unable work yet, tries to stay economically active, under whatever definition you may have for that. I do programming in my own time when I am able (which is unpredictable).
-I selflessly aim to make the experiences and lives of individuals better through programming and tech in general. Sometimes, taking it a bit too far, as iv been told 😂
-
 #### 🤝🏻 &nbsp;My Social Life?
 
 <p>
